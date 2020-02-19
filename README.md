@@ -2,6 +2,12 @@
 
 ![一起来学Flutter](https://upload-images.jianshu.io/upload_images/3258163-f52b298eae5338f5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+[Flutter系列（一）——详细介绍](https://www.jianshu.com/p/594d2fed8cd1)
+
+[Flutter系列（二）——与React Native进行对比](https://www.jianshu.com/p/a5b23328a81d)
+
+[Flutter系列（三）——环境搭建（Windows）](https://www.jianshu.com/p/3f9aaec0d1f4)
+
 有什么好的建议，意见，想法欢迎给我留言！
 
 
